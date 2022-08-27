@@ -6,6 +6,9 @@ gem "bootsnap", require: false
 gem "importmap-rails"
 gem "jbuilder"
 gem "pg", "~> 1.1"
+gem 'pry'
+gem 'pry-doc'
+
 gem "puma", "~> 5.0"
 gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 gem "sprockets-rails"

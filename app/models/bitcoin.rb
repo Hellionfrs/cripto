@@ -1,5 +1,5 @@
 class Bitcoin < ApplicationRecord
-  validates :body, presence: true
+  validates :hash, presence: true
   validates :block, presence: true
   
 end
